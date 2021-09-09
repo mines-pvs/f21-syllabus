@@ -24,9 +24,9 @@ week,date,topic,lecture notes,supplemental reading,homework,project
 12,Nov 9,paper presentation,,[Sketching Concurrent Data Structures](https://people.csail.mit.edu/asolar/papers/Solar-LezamaJB08.pdf),[hw4](https://github.com/mines-pvs/f21-assignment-hw05) due,
 ,Nov 11,paper presentation,,[Oracle-Guided Component-Based Program Synthesis](http://susmitjha.github.io/papers/icse10.pdf),,
 13,Nov 16,paper presentation,,[Automating String Processing in Spreadsheets Using Input-Output Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf),,
-,Nov 18,*no class*,,,,
-14,Nov 23,*no class (holiday)*,,,,
-,Nov 25,paper presentation,,[Abstraction-Guided Synthesis of Synchronization](http://www.cs.technion.ac.il/~yahave/papers/popl10.pdf),,
+,Nov 18,paper presentation,,[Abstraction-Guided Synthesis of Synchronization](http://www.cs.technion.ac.il/~yahave/papers/popl10.pdf),,
+14,Nov 23,*no class*,,,,
+,Nov 25,*no class (holiday)*,,,,
 15,Nov 30,paper presentation,,[TRANSIT: Specifying Protocols with Concolic Snippets](http://acg.cis.upenn.edu/papers/pldi13_transit.pdf),,
 ,Dec 2,paper presentation,,[Syntax-Guided Synthesis](https://www.cis.upenn.edu/~fisman/documents/SyGuS_JournalVersion.pdf),,presentation slides due
 16,Dec 7,**project presentations**,,,,
