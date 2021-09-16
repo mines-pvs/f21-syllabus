@@ -6,7 +6,7 @@ week,date,topic,lecture notes,supplemental reading,homework,project
 3,Sep 7,normal forms,[lecture05](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/kt9ikt1k54i6aa),LICS 1.5,[hw2](https://github.com/mines-pvs/f21-assignment-hw02) assigned,
 ,Sep 9,SAT solving,[lecture06](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/ktcbe1tkb1u160),"LICS 1.6, [CDCL](http://satassociation.org/articles/FAIA185-0131.pdf)",,
 4,Sep 14,*no class ([career day](https://www.mines.edu/careers/career-day/))*,,,,
-,Sep 16,predicate logic,[lecture07](…),LICS 2.1-2.2,[hw2](https://github.com/mines-pvs/f21-assignment-hw02) due,
+,Sep 16,predicate logic,[lecture07](https://www.youtube.com/watch?v=BuIWUO-kWs4),LICS 2.1-2.2,[hw2](https://github.com/mines-pvs/f21-assignment-hw02) due,
 5,Sep 21,proof theory of predicate logic,[lecture08](…),LICS 2.3,[hw3](https://github.com/mines-pvs/f21-assignment-hw03) assigned,
 ,Sep 23,"semantics of predicate logic, SMT solving",[lecture09](…),"LICS 2.4, [SMT](https://people.eecs.berkeley.edu/~sseshia/pubdir/SMT-BookChapter.pdf)",,
 6,Sep 28,linear temporal logic (LTL),[lecture10](…),LICS 3.2,,
