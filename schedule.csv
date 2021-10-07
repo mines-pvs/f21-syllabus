@@ -12,7 +12,7 @@ week,date,topic,lecture notes,supplemental reading,homework,project
 6,Sep 28,linear temporal logic (LTL),[lecture10](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/ktvnh8del20gr),LICS 3.2,,
 ,Sep 30,model checking,[lecture11](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/ktvnhfcvllc15h),LICS 3.3,[hw3](https://github.com/mines-pvs/f21-assignment-hw03) due,
 7,Oct 5,*no class*,,,,
-,Oct 7,computation tree logic (CTL),[lecture12](…),LICS 3.4,[hw4](https://github.com/mines-pvs/f21-assignment-hw04) assigned,
+,Oct 7,computation tree logic (CTL),[lecture12](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/kugatbrmfh5566),LICS 3.4,[hw4](https://github.com/mines-pvs/f21-assignment-hw04) assigned,
 8,Oct 12,CTL model checking,[lecture13](…),LICS 3.6.1,,project proposal due
 ,Oct 14,LTL model checking,[lecture14](…),LICS 3.6.3,,
 9,Oct 19,*no class (holiday)*,,,[hw4](https://github.com/mines-pvs/f21-assignment-hw04) due,
