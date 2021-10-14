@@ -14,7 +14,7 @@ week,date,topic,lecture notes,supplemental reading,homework,project
 7,Oct 5,*no class*,,,,
 ,Oct 7,computation tree logic (CTL),[lecture12](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/kugatbrmfh5566),LICS 3.4,[hw04](https://github.com/mines-pvs/f21-assignment-hw04) assigned,
 8,Oct 12,CTL model checking,[lecture13](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/kunfio57l3t6tj),LICS 3.6.1,,project proposal due
-,Oct 14,LTL model checking,[lecture14](…),LICS 3.6.3,,
+,Oct 14,LTL model checking,[lecture14](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/kur2mwspk8d77k),LICS 3.6.3,,
 9,Oct 19,*no class (holiday)*,,,[hw04](https://github.com/mines-pvs/f21-assignment-hw04) due,
 ,Oct 21,program syntax/semantics,[lecture15](…),LICS 4.1-4.2.1,,
 10,Oct 26,program verification,[lecture16](…),LICS 4.2.2-4.2.4,,
